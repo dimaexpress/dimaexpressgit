@@ -60,11 +60,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "VENDAS DIAMANTES BRASIL | TOP 1° DO PAÍS | 100% CONFIÁVEL | ANTI-BAN | ANTI-REEMBOLSO",
+        "meta_descr": "Olá sobrevivente! Vamos gemar sua conta? Diamante mais barato do brasil com códiguinhos ativos, entrega imediata!",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/rsw-1250cg-true-128x128.png"
       },
       "components": [
         {
